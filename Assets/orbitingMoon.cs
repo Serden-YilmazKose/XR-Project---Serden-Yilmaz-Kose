@@ -9,6 +9,6 @@ public class moonOrbit : MonoBehaviour
 
     void Update()
     {
-        planet.Rotate(Vector3.up, 3f * Time.deltaTime);
+        planet.Rotate(Vector3.down, 3f * Time.deltaTime);
     }
 }

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0B636385-2610-77C0-9153-559084E0498A}</ProjectGuid>
+    <ProjectGuid>{296A5B4D-16FA-4215-1B99-18834281164F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -1132,11 +1132,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="ControllerSample.csproj">
-      <Project>{399297FA-3A1E-5B4B-2606-87B3D224C3BC}</Project>
+      <Project>{78587D0E-C49D-27E2-83BB-73CEA1FB1100}</Project>
       <Name>ControllerSample</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj">
-      <Project>{3D2F91AE-3BC8-74F8-4F48-C187055C1C3C}</Project>
+      <Project>{AD100BC8-904F-D981-975E-AF71BD488147}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator</Name>
     </ProjectReference>
   </ItemGroup>
